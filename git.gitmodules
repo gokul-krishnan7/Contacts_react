@@ -1,0 +1,3 @@
+[submodule "contactapi"]
+    path = contactapi
+    url = https://github.com/example/contact.git
